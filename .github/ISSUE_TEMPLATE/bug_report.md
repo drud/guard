@@ -10,29 +10,28 @@ assignees: ''
 ## Bug Description:
 
 
-## Version and configuration:
-
-
-## Acceptance criteria:
+## Steps to Reproduce:
 
 
 ## Version and configuration:
 
 
-## Bug Ready Checklist:
+## Related links or issues:
 
-- [ ] User stories and/or acceptance criteria in [Gherkin format](https://cucumber.io/docs/gherkin)
+
+## Definition of Ready Checklist:
+
+- [ ] Provides steps to reproduce
 - [ ] Dependencies identified
 - [ ] Sized by team
 <!--- [ ] SLIs identified, where appropriate -->
 
 R<sup>Product Owner</sup> A<sup>Scrum Master</sup> C<sup>Eng. Lead</sup> I<sup>Team</sup>
 
-## Bug Done Checklist:
+## Definition of Done Checklist:
 
-- [ ] Acceptance Criteria tested and passing
 - [ ] Deployed on test environment
-- [ ] QA performed & issues resolved
+- [ ] Steps do not reproduce
 - [ ] Unit test and E2E coverage updated (if applicable)
 - [ ] Builds without errors
 - [ ] Internal documentation updated (if required)

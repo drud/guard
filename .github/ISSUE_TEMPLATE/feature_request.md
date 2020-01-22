@@ -19,16 +19,17 @@ assignees: ''
 ## Related links or issues:
 
 
-## Feature Ready Checklist:
+## Definition of Ready Checklist:
 
-- [ ] User stories and/or acceptance criteria in [Gherkin format](https://cucumber.io/docs/gherkin)
+- [ ] User-facing feature: provides story or A/C in [Gherkin format](https://cucumber.io/docs/gherkin), or
+- [ ] Architectural feature: provides technical A/C
 - [ ] Dependencies identified
 - [ ] Sized by team
 <!--- [ ] SLIs identified, where appropriate -->
 
 R<sup>Product Owner</sup> A<sup>Scrum Master</sup> C<sup>Eng. Lead</sup> I<sup>Team</sup>
 
-## Feature Done Checklist:
+## Definition of Done Checklist:
 
 - [ ] Acceptance Criteria tested and passing
 - [ ] Deployed on test environment
